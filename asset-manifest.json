@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sound-box/static/css/main.fb513a5a.css",
+    "main.js": "/sound-box/static/js/main.7d712f75.js",
+    "static/js/787.54f93145.chunk.js": "/sound-box/static/js/787.54f93145.chunk.js",
+    "index.html": "/sound-box/index.html",
+    "main.fb513a5a.css.map": "/sound-box/static/css/main.fb513a5a.css.map",
+    "main.7d712f75.js.map": "/sound-box/static/js/main.7d712f75.js.map",
+    "787.54f93145.chunk.js.map": "/sound-box/static/js/787.54f93145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb513a5a.css",
+    "static/js/main.7d712f75.js"
+  ]
+}
